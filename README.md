@@ -46,6 +46,8 @@ Para la correcta visualización y funcionamiento del código se deberán instala
 2. numpy - usada para operaciones númericas
 3. matplotlib - usada para ver visualizar los datos en 2D
 4. sklearn - usada para aprendizaje automático
+5. geopandas - usada para generar el los datos del mapa
+6. shapely - usada para tratar los datos geometricos mostrados en el mapa
 
 #### Ejecución
 El código se encuentra en notebooks por lo que se deberá ejecutar cada una de las celdas.
